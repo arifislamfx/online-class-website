@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap");
+
+.brand-name {
+  font-family: "Original Surfer", cursive;
+  color: #aaa;
+}
+
+.count {
+  color: red;
+  font-size: 25px;
+}
