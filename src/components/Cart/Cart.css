@@ -1,0 +1,13 @@
+.cart_price {
+  margin-top: 85px;
+  padding: 10px;
+  border: 1px solid red;
+  width: 200px;
+  height: 150px;
+  position: fixed;
+  margin-left: 40px;
+}
+.cart_price Button {
+  align-items: center !important;
+  margin-top: 10px;
+}

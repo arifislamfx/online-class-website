@@ -1,0 +1,7 @@
+.card-box {
+  width: 20rem !important;
+  align-items: center !important;
+  display: block !important;
+  margin: 10px !important;
+  padding: 10px !important;
+}

@@ -3,17 +3,17 @@
     "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
     "author": "Jose Portilla",
     "rating": "*****",
-    "price": "$81.87",
+    "price": 81.87,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Complete%20Python%20Bootcamp.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Complete%20Python%20Bootcamp.jpg?raw=true"
   }, {
     "id": 2,
     "title": "The Complete Beginners SEO Course - Learn SEO Fundamentals!",
     "author": "New Horizon e-Learning Solutions",
     "rating": "*****",
-    "price": "$71.88",
+    "price": 71.88,
     "category" : "SEO",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Beginners%20SEO%20Course.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Beginners%20SEO%20Course.jpg?raw=true"
   }, {
     "id": 3,
     "title": "Drawing Course",
@@ -21,7 +21,7 @@
     "rating": "*****",
     "price": 14.66,
     "category" : "Graphic design",
-    "image": "https://raw.githubusercontent.com/arifislamfx/online-class-website/main/public/img/Drawing%20Course.jpg"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Drawing%20Course.jpg?raw=true"
   }, {
     "id": 4,
     "title": "Graphic Design Master Class",
@@ -29,7 +29,7 @@
     "rating": "*****",
     "price": 18.8,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Graphic%20Design%20Master%20Class.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Graphic%20Design%20Master%20Class.jpg?raw=true"
   }, {
     "id": 5,
     "title": "Learn Blender 3D",
@@ -37,7 +37,7 @@
     "rating": "*****",
     "price": 58.49,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Learn%20Blender%203D.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Learn%20Blender%203D.jpg?raw=true"
   }, {
     "id": 6,
     "title": "Learn Professional 2D",
@@ -45,7 +45,7 @@
     "rating": "*****",
     "price": 41.66,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Learn%20Professional%202D.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Learn%20Professional%202D.jpg?raw=true"
   }, {
     "id": 7,
     "title": "Pixel Art Master Course",
@@ -53,7 +53,7 @@
     "rating": "*****",
     "price": 68.31,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/Pixel%20Art%20Master%20Course.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/Pixel%20Art%20Master%20Course.jpg?raw=true"
   }, {
     "id": 8,
     "title": "complete web design",
@@ -61,7 +61,7 @@
     "rating": "*****",
     "price": 78.47,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/complete%20web%20design.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/complete%20web%20design.jpg?raw=true"
   }, {
     "id": 9,
     "title": "CSS master class",
@@ -69,7 +69,7 @@
     "rating": "*****",
     "price": 68.55,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/css.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/css.jpg?raw=true"
   }, {
     "id": 10,
     "title": "HTML & CSS master class",
@@ -77,7 +77,7 @@
     "rating": "*****",
     "price": 37.98,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/html%20%20&%20css.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/html%20%20&%20css.jpg?raw=true"
   }, {
     "id": 11,
     "title": "iPhone Photography",
@@ -85,7 +85,7 @@
     "rating": "*****",
     "price": 62.21,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/iPhone%20Photography.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/iPhone%20Photography.jpg?raw=true"
   }, {
     "id": 12,
     "title": "Photoshop Course",
@@ -93,7 +93,7 @@
     "rating": "*****",
     "price": 51.53,
     "category" : "Graphic design",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/photoshop.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/photoshop.jpg?raw=true"
   }, {
     "id": 13,
     "title": "Responsive web design",
@@ -101,7 +101,7 @@
     "rating": "*****",
     "price": 21.36,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/responsive%20web%20design.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/responsive%20web%20design.jpg?raw=true"
   }, {
     "id": 14,
     "title": "Wordpress for beginner",
@@ -109,7 +109,7 @@
     "rating": "*****",
     "price": 45.15,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/wordpress%20for%20beginner.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/wordpress%20for%20beginner.jpg?raw=true"
   }, {
     "id": 15,
     "title": "Wordpress security.",
@@ -117,7 +117,7 @@
     "rating": "*****",
     "price": 19.02,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/wordpress%20security.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/wordpress%20security.jpg?raw=true"
   }, {
     "id": 16,
     "title": "Wordpress",
@@ -125,5 +125,5 @@
     "rating": "*****",
     "price": 20.77,
     "category" : "Web Development",
-    "image": "https://github.com/arifislamfx/online-class-website/blob/main/public/img/wordpress.jpg?raw=true"
+    "image": "https://github.com/arifislamfx/online-class-website/blob/main/src/img/course-img/wordpress.jpg?raw=true"
   }]

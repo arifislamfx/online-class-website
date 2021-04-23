@@ -21,7 +21,6 @@ const Header = (props) => {
                 <span className="count">
                 {cart.length}
                 </span>
-                
             </Nav.Link>
             <Nav.Link href="#signIn">
                 <Button variant="outline-primary"> Sign in </Button> 

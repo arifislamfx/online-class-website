@@ -1,5 +1,15 @@
-.header-text {
-  margin-top: 100px !important;
+.main {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.footer p {
+  font-size: 14px;
   letter-spacing: 0.8px;
-  margin-bottom: 40px;
+  font-weight: 400;
 }
